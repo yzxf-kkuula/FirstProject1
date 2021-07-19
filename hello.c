@@ -7,6 +7,6 @@ bool cmp(int a, int b)
 
 int main()
 {
-        printf("Hello, World!\n");
+        printf("Hello, Git!\n");
         return 0;
 }
