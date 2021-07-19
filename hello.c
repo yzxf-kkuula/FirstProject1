@@ -7,10 +7,6 @@ bool cmp(int a, int b)
 
 int main()
 {
-<<<<<<< HEAD
-        printf("Good, World!\n");
-=======
-        printf("Hello, Git!\n");
->>>>>>> main
+        printf("Good, Git!\n");
         return 0;
 }
